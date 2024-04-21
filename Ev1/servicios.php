@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/Ev1/Servicio.php';
+require_once __DIR__ . '/Ev1/Servicios.php';
 
 function getServicios() {
     $servicioModel = new Servicio();
